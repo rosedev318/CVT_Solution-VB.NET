@@ -1,5 +1,6 @@
 using CVTSoultion.Data;
 using Microsoft.AspNetCore.Identity;
+
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Localization;
