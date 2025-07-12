@@ -1,5 +1,6 @@
 namespace CVTSoultion.Models
 {
+
     public class ErrorViewModel
     {
         public string? RequestId { get; set; }
